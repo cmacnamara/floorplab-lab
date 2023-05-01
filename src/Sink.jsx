@@ -1,7 +1,7 @@
 const Sink = () => {
   return (
-    <div>
-      <h1>Sink</h1>
+    <div className="plan-item-box">
+      <p className="room-title">Sink</p>
     </div>
   )
 }

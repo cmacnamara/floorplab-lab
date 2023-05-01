@@ -1,7 +1,7 @@
 const Oven = () => {
   return (
-    <div>
-      <h1>Oven</h1>
+    <div className="plan-item-box">
+      <p className="room-title">Oven</p>
     </div>
   )
 }

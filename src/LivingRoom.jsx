@@ -1,7 +1,7 @@
 const LivingRoom = () => {
   return (
-    <div>
-      <h1>Living Room</h1>
+    <div className="plan-item-box">
+      <p className="room-title">Living Room</p>
     </div>
   )
 }
