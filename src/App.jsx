@@ -1,5 +1,7 @@
 import './App.css'
 import FloorPlan from './FloorPlan'
+import Oven from './Oven'
+import Sink from './Sink'
 
 function App() {
   return (
