@@ -3,7 +3,7 @@ import Sink from './Sink'
 
 const Kitchen = props => {
   return (
-    <div className="plan-item-box">
+    <div className="plan-item-box" id="kitchen">
       <p className="room-title">Kitchen</p>
       <Oven />
       <Sink />
